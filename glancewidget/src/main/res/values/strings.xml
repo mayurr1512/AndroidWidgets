@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="glance_widget_title">Glance Widget</string>
+    <string name="glance_widget_default_message">Tap to refresh!</string>
+    <string name="glance_widget_button_text">Refresh</string>
+    <string name="glance_widget_description">A modern widget built with Jetpack Compose and Glance.</string>
+</resources>

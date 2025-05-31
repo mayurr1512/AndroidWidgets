@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="xml_widget_title">XML Widget</string>
+    <string name="xml_widget_default_message">Tap button to update!</string>
+    <string name="xml_widget_button_text">Update Now</string>
+    <string name="xml_widget_description">A simple widget built with XML layouts.</string>
+</resources>

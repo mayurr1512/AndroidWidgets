@@ -1,0 +1,24 @@
+<resources>
+    <string name="app_name">AndroidWidgets</string>
+    <string name="main_screen_title">Android Widgets Demo</string>
+    <string name="xml_widget_button">Show Traditional XML Widget Info</string>
+    <string name="glance_widget_button">Show Glance Widget Info</string>
+
+    <string name="xml_widget_explanation_title">Traditional XML Widget</string>
+    <string name="xml_widget_explanation_text">
+        To add the Traditional XML Widget:\n\n
+        1. Long-press on your home screen.\n
+        2. Tap "Widgets".\n
+        3. Find "XML Widget" in the list and drag it to your home screen.\n\n
+        It will display the current time and has a button to manually update.
+    </string>
+
+    <string name="glance_widget_explanation_title">Glance Widget (Compose)</string>
+    <string name="glance_widget_explanation_text">
+        To add the Glance Widget:\n\n
+        1. Long-press on your home screen.\n
+        2. Tap "Widgets".\n
+        3. Find "Glance Widget" in the list and drag it to your home screen.\n\n
+        It will display the current time and has a button to manually refresh.
+    </string>
+</resources>
